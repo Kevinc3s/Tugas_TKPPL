@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Jenis-Jenis Komputer</title>
+</head>
+<body>
+	<ul>
+		<p>MikroKomputer</p>
+		<p>MiniKomputer>/p>
+		<p>Mainframe</p>
+		<p>SuperKomputer</p>
+	</ul>
+</body>
+</html>
